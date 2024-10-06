@@ -1,0 +1,24 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "contact": "Contato"
+  },
+  "languageSwitcher": {
+    "en": "Inglês",
+    "pt": "Português",
+    "es": "Espanhol"
+  },
+  "home": {
+    "title": "Bem-vindo ao nosso website",
+    "description": "Esta é a página inicial"
+  },
+  "about": {
+    "title": "Sobre nós",
+    "description": "Saiba mais sobre nossa empresa"
+  },
+  "contact": {
+    "title": "Contate-nos",
+    "description": "Entre em contato conosco"
+  }
+}
