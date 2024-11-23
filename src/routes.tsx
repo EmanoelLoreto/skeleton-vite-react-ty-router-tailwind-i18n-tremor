@@ -3,7 +3,7 @@ import App from './screens/app';
 
 const router = createBrowserRouter([
   {
-    path: '/app',
+    path: '/',
     element: <App />,
   },
 ]);
